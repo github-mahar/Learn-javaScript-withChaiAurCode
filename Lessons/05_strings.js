@@ -9,3 +9,5 @@ console.log(`${name} ${repoCount} repositories`); // Template Literal (recommend
 // String Object
 const myName = new String("Mahar GM"); // String object (not recommended)
 console.log(myName);
+console.log(myName[0]); // Accessing first character
+console.log(myName.length); // Length of the string
