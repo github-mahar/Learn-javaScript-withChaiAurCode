@@ -19,3 +19,6 @@ console.log(myName.includes("GM")); // Check if substring exists
 console.log(myName.startsWith("Mahar")); // Check if starts with substring
 console.log(myName.charAt(2)); // Character at index 2'))
 console.log(myName.indexOf("GM")); // Index of substring
+
+
+console.log(myName.replace("GM", "G M")); // Replace substring
