@@ -10,3 +10,4 @@ console.log(balance.toString().length); // 4
 console.log(balance.toFixed(2)); // "1000.00"
 
 console.log(Number.isInteger(score));
+
